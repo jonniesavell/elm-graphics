@@ -1,4 +1,4 @@
-module Main where
+module ArchOvals1 where
 
 import Array
 import StartApp
