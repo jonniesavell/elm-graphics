@@ -58,7 +58,7 @@ type Action = NoOp
 initialModel : Model
 initialModel =
   {
-    name = "archimedes",
+    name = "ArchOvals1Double1",
     structures = List.reverse (generate 0 721 [])
   }
 
