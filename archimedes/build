@@ -1,3 +1,4 @@
 elm make src/ArchOvals1.elm                   --output target/ArchOvals1.js
 elm make src/ArchOvals1Double1.elm            --output target/ArchOvals1Double1.js
 elm make src/ArchOvals1Grad2Double1TwistZ.elm --output target/ArchOvals1Grad2Double1TwistZ.js
+elm make src/ArchOvals1Mod1.elm               --output target/ArchOvals1Mod1.js
